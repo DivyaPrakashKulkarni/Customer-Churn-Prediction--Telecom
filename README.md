@@ -2,6 +2,8 @@
 This is a use case of predicting customer churning in Telecom
 
 
+
+test
 CASE STUDY
 Problem Statement:
 • In telecom domain where the customer acquisition has higher cost than retention and there is a rampant price war ,it becomes important to predict and profile the customer behaviour and predict them so that offers can be rolled out to retain them prioir to switching.
